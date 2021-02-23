@@ -9,6 +9,7 @@ dependencies:
   - numpy
   - scipy
   - psi4
+  - matplotlib
 
     # Testing
   - pytest
