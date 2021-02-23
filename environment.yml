@@ -19,3 +19,4 @@ dependencies:
     # Pip-only installs
   - pip:
     - opt-einsum
+    - ntov
